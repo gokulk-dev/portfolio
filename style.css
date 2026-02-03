@@ -141,4 +141,8 @@ home-details p{
     width:100%;
    
     object-fit:cover;
+
 }
+.download-social{
+        padding-top: 15px;
+    }
